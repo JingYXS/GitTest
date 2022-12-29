@@ -14,6 +14,6 @@ public class GitTest {
         System.out.println("hello,Git master");
         System.out.println("hello,Git2 hot fix");
         System.out.println("hello,Git3 Push to remote");
-
+        System.out.println("hello,Git3 Pull from remote");
     }
 }
